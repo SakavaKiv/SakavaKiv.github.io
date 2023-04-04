@@ -29,7 +29,6 @@ category: fun
 </div>
 <div class="caption">
     Self Portrait Impressionism
-</div>    
     
 </div>
 <div class="row">
