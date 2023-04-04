@@ -2,7 +2,7 @@
 layout: page
 title: CLT
 description: Demonstration of the CLT
-img: assets/img/12.jpg
+img: assets/img/IllustrationCentralTheorem.JPG
 importance: 1
 category: work
 ---
