@@ -20,6 +20,17 @@ category: fun
 </div>
 <div class="caption">
     Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
+    
+</div>
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/SelfPortraitImpressionism.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    Self Portrait Impressionism
+</div>    
+    
 </div>
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -27,7 +38,7 @@ category: fun
     </div>
 </div>
 <div class="caption">
-    This image can also have a caption. It's like magic.
+    Still Life Poly-chromatic Realism
 </div>
 
 You can also put regular text between your rows of images.
