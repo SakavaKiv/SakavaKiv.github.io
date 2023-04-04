@@ -24,5 +24,5 @@ After graduating he worked professionally as a Business Systems Analyst in the f
 
 Moreover he has worked towards a second Bachelors degree in Mathematics at the University of Texas Dallas from August 2019 - December 2022.
 
-Currently he plans to look for Internships as a Data Scientist.
+Currently he plans to look for Internships as a Data Scientist soon.
 
