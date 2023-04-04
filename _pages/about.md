@@ -12,8 +12,8 @@ profile:
     <p>Dallas, Texas</p>
 
 news: false  # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true  # includes social icons at the bottom of the page
+selected_papers: false # includes a list of papers marked as "selected={true}"
+social: false  # includes social icons at the bottom of the page
 ---
 
 Sakava Kiv is a member of the 2023 Spring cohort, pursuing his Master of Science degree in Data Science at Southern Methodist University in Dallas, Texas. He has earned his Bachelors of Science degree in Information Systems at the University of Texas at Arlington.
