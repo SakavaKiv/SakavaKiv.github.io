@@ -26,15 +26,15 @@
   type: time_table
   contents:
     - title: Business Analyst
-      company: RealPage Inc., Richardson, Texas
+      institution: RealPage Inc., Richardson, Texas
       year: 2018 - 2018
         
     - title: Business Systems Analyst
-      company: Santander Consumer Inc., Dallas, Texas
+      institution: Santander Consumer Inc., Dallas, Texas
       year: 2015 - 2018
 
     - title: Business Systems Analyst Intern
-      company: Santander Consumer Inc., Dallas, Texas
+      institution: Santander Consumer Inc., Dallas, Texas
       year: 2014 - 2014
 
 - title: Honors and Awards
@@ -58,4 +58,4 @@
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby Oil Painting, etc.
+    - <u>Hobbies:</u> Oil Painting, etc.
