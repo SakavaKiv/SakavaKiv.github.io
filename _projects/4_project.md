@@ -2,7 +2,7 @@
 layout: page
 title: My Oil Paintings
 description: A portfolio oil paintings. 
-img:
+img:assets/img/AngkorWatImpressionism.jpg
 importance: 3
 category: fun
 ---
