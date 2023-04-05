@@ -7,7 +7,7 @@ importance: 2
 category: work
 ---
 
-{% raw %}
+
 <html>
 
 <head>
@@ -1737,4 +1737,3 @@ $(document).ready(function () {
 
 </body>
 </html>
-{% endraw %}
