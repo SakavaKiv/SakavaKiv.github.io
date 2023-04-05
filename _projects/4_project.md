@@ -1,8 +1,8 @@
 ---
 layout: page
 title: My Oil Paintings
-description: A portfolio oil paintings. 
-img:assets/img/AngkorWatImpressionism.jpg
+description: A portfolio of oil paintings. 
+img: assets/img/ManetSunset.PNG
 importance: 3
 category: fun
 ---
