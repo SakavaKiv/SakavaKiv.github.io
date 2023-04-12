@@ -2,7 +2,7 @@
 layout: page
 title: Exploration of Attrition
 description: A project to predict employee turnover or attrition using data science.
-img: assets/img/IllustrationCentralTheorem.JPG
+img: assets/img/AttritionPic.PNG
 importance: 2
 category: work
 ---
