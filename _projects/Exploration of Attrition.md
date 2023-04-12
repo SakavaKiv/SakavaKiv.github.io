@@ -7,8 +7,6 @@ importance: 2
 category: work
 ---
 
-<!DOCTYPE html>
-
 <html>
 
 <head>
