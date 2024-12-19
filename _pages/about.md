@@ -16,7 +16,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-Sakava Kiv completed his Master of Science degree in Data Science at Southern Methodist University in Dallas,Texas. He has earned his Bachelors of Science degree in Information Systems at the University of Texas at Arlington.
+Sakava Kiv completed his Master of Science degree in Data Science at Southern Methodist University on December 2024 in Dallas,Texas. He has earned his Bachelors of Science degree in Information Systems at the University of Texas at Arlington.
 
 After graduating he worked professionally as a Business Systems Analyst in the finance industry for two years and 10 months at Santander and worked as a Business Analyst for 7 months in the real estate software industry at RealPage.
 
