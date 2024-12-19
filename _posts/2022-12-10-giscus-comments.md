@@ -8,7 +8,7 @@ As professionals, we've all been there - feeling undervalued, overworked, and un
 
 Before he died, a father said to his son...
 
-“Here is a watch your grandfather gave me… It is almost 200 years old. Before I give it to you, go to the jewelry store in the city. Tell them that I want to sell it, and see how much they offer you.”
+“Here is a watch your grandfather gave me… It is almost two hundred years old. Before I give it to you, go to the jewelry store in the city. Tell them that I want to sell it, and see how much they offer you.”
 
 The son went to the jewelry store, came back to his father, and said; “They offered $100 because it is so old.”
 
