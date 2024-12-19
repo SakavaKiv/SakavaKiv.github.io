@@ -13,9 +13,9 @@ related_posts: false
 
 As professionals, we've all been there - feeling undervalued, overworked, and underappreciated. But what if I told you that your worth isn't defined by your job title, salary, or someone else's opinion? I want to share an inspirational perspective that has stayed with me. It's a story about a father's wisdom and the value of self-worth.
 
-Before he died, a father said to his son...
+Before he died, a father said to his son:
 
-“Here is a watch your grandfather gave me… It is almost two hundred years old. Before I give it to you, go to the jewelry store in the city. Tell them that I want to sell it, and see how much they offer you.”
+“Here is a watch your grandfather gave me… It is almost 200 years old. Before I give it to you, go to the jewelry store in the city. Tell them that I want to sell it, and see how much they offer you.”
 
 The son went to the jewelry store, came back to his father, and said; “They offered $100 because it is so old.”
 
@@ -30,7 +30,7 @@ The son quietly questioned his father’s judgement, but still, willing to act o
 
 “The curator offered $375,000 for this very rare piece to be included in their precious antique collection.”
 
-The father responded...
+The father responded:
 
 “I wanted to show you that the right place will value you in the right way. Don’t find yourself in the wrong place and get angry because you are not valued. Never stay in a place where someone doesn’t see your value or you don’t feel appreciated.”
 
