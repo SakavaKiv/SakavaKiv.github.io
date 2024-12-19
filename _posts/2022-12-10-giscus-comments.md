@@ -1,8 +1,15 @@
 ---
 layout: post
-title: Know Your Worth: A Lesson in Self-Value
+title: "Know Your Worth: A Lesson in Self-Value"
 date: 2024-12-19 13:44:00 -0600
-description: Know Your Worth, A Lesson in Self-Value
+description: "Know Your Worth, A Lesson in Self-Value"
+categories: 
+  - Inspiration
+  - Mindset
+giscus_comments: true
+related_posts: false
+---
+
 
 As professionals, we've all been there - feeling undervalued, overworked, and underappreciated. But what if I told you that your worth isn't defined by your job title, salary, or someone else's opinion? I want to share an inspirational perspective that has stayed with me. It's a story about a father's wisdom and the value of self-worth.
 
@@ -37,8 +44,5 @@ So take a breath, dear heart, and know you're not alone,
 Your worth is inherent, and your future is yet unknown.
 We got this!
 
-categories: Inspiration Mindset
-giscus_comments: true
-related_posts: false
----
+
 
