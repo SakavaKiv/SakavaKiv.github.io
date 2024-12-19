@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Know Your Worth: A Lesson in Self-Value
-date: 2024-12-19 1:44 pm cst
+date: 2024-12-19 13:44:00 -0600
 description: Know Your Worth, A Lesson in Self-Value
 
 As professionals, we've all been there - feeling undervalued, overworked, and underappreciated. But what if I told you that your worth isn't defined by your job title, salary, or someone else's opinion? I want to share an inspirational perspective that has stayed with me. It's a story about a father's wisdom and the value of self-worth.
