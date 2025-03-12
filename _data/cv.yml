@@ -25,6 +25,10 @@
 - title: Relevant Professional Experience
   type: time_table
   contents:
+    - title: Data Analyst
+      institution: Exeter Finance LLC, Irving, Texas
+      year: 2020 - Present
+      
     - title: Business Analyst
       institution: RealPage Inc., Richardson, Texas
       year: 2018 - 2018
@@ -50,8 +54,18 @@
   type: nested_list
   contents:
     - title: Machine Learning
+    - title: Deep Learning
+    - title: Time Series Forecasting
+    - title: Natural Language Processing
+    - title: Large Language Models
+    - title: Bayesian Statistics
+    - title: Linear Algebra
     - title: Elementary Number Theory
     - title: Abstract Algebra
+    - title: Finance
+    - title: Others
+    
+    
     
   
   
