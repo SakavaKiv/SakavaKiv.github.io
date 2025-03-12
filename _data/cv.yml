@@ -27,19 +27,27 @@
   contents:
     - title: Data Analyst
       institution: Exeter Finance LLC, Irving, Texas
-      year: 2020 - Present
+      year: Feb 2020 - Present
+
+    - title: Graduate Teaching Assistant
+      institution: Southern Methodist University, Dallas, Texas
+      year: Jan 2024 - Dec 2024
       
     - title: Business Analyst
       institution: RealPage Inc., Richardson, Texas
-      year: 2018 - 2018
+      year: Mar 2018 - Sep 2018
         
     - title: Business Systems Analyst
       institution: Santander Consumer Inc., Dallas, Texas
-      year: 2015 - 2018
+      year: Aug 2015 - Mar 2018
 
     - title: Business Systems Analyst Intern
       institution: Santander Consumer Inc., Dallas, Texas
-      year: 2014 - 2014
+      year: May 2014 - Aug 2014
+
+    - title: IT Intern
+      institution: Gladney Center for Adoption, Forth Worth, Texas
+      year: Jan 2014 - May 2014
 
 - title: Honors and Awards
   type: time_table
